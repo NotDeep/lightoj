@@ -1,1 +1,1 @@
-# lightoj
+Lightoj code
